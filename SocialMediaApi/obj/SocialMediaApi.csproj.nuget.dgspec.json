@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SocialMediaApi\\SocialMediaApi\\SocialMediaApi.csproj": {}
+    "d:\\SocialMediaApi\\SocialMediaApi\\SocialMediaApi.csproj": {}
   },
   "projects": {
-    "D:\\SocialMediaApi\\SocialMediaApi\\SocialMediaApi.csproj": {
+    "d:\\SocialMediaApi\\SocialMediaApi\\SocialMediaApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SocialMediaApi\\SocialMediaApi\\SocialMediaApi.csproj",
+        "projectUniqueName": "d:\\SocialMediaApi\\SocialMediaApi\\SocialMediaApi.csproj",
         "projectName": "SocialMediaApi",
-        "projectPath": "D:\\SocialMediaApi\\SocialMediaApi\\SocialMediaApi.csproj",
+        "projectPath": "d:\\SocialMediaApi\\SocialMediaApi\\SocialMediaApi.csproj",
         "packagesPath": "C:\\Users\\dilip\\.nuget\\packages\\",
-        "outputPath": "D:\\SocialMediaApi\\SocialMediaApi\\obj\\",
+        "outputPath": "d:\\SocialMediaApi\\SocialMediaApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "D:\\SocialMediaApi\\SocialMediaBusiness\\SocialMediaBusiness.csproj": {
-                "projectPath": "D:\\SocialMediaApi\\SocialMediaBusiness\\SocialMediaBusiness.csproj"
+              "d:\\SocialMediaApi\\SocialMediaBusiness\\SocialMediaBusiness.csproj": {
+                "projectPath": "d:\\SocialMediaApi\\SocialMediaBusiness\\SocialMediaBusiness.csproj"
+              },
+              "D:\\SocialMediaApi\\SocialMediaData\\SocialMediaData.csproj": {
+                "projectPath": "D:\\SocialMediaApi\\SocialMediaData\\SocialMediaData.csproj"
               }
             }
           }
@@ -82,14 +85,14 @@
         }
       }
     },
-    "D:\\SocialMediaApi\\SocialMediaBusiness\\SocialMediaBusiness.csproj": {
+    "d:\\SocialMediaApi\\SocialMediaBusiness\\SocialMediaBusiness.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SocialMediaApi\\SocialMediaBusiness\\SocialMediaBusiness.csproj",
+        "projectUniqueName": "d:\\SocialMediaApi\\SocialMediaBusiness\\SocialMediaBusiness.csproj",
         "projectName": "SocialMediaBusiness",
-        "projectPath": "D:\\SocialMediaApi\\SocialMediaBusiness\\SocialMediaBusiness.csproj",
+        "projectPath": "d:\\SocialMediaApi\\SocialMediaBusiness\\SocialMediaBusiness.csproj",
         "packagesPath": "C:\\Users\\dilip\\.nuget\\packages\\",
-        "outputPath": "D:\\SocialMediaApi\\SocialMediaBusiness\\obj\\",
+        "outputPath": "d:\\SocialMediaApi\\SocialMediaBusiness\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -196,6 +199,20 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

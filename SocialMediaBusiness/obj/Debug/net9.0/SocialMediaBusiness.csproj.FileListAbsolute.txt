@@ -1,0 +1,16 @@
+D:\SocialMediaApi\SocialMediaBusiness\bin\Debug\net9.0\SocialMediaBusiness.deps.json
+D:\SocialMediaApi\SocialMediaBusiness\bin\Debug\net9.0\SocialMediaBusiness.dll
+D:\SocialMediaApi\SocialMediaBusiness\bin\Debug\net9.0\SocialMediaBusiness.pdb
+D:\SocialMediaApi\SocialMediaBusiness\bin\Debug\net9.0\SocialMediaData.dll
+D:\SocialMediaApi\SocialMediaBusiness\bin\Debug\net9.0\SocialMediaData.pdb
+D:\SocialMediaApi\SocialMediaBusiness\obj\Debug\net9.0\SocialMediaBusiness.csproj.AssemblyReference.cache
+D:\SocialMediaApi\SocialMediaBusiness\obj\Debug\net9.0\SocialMediaBusiness.GeneratedMSBuildEditorConfig.editorconfig
+D:\SocialMediaApi\SocialMediaBusiness\obj\Debug\net9.0\SocialMediaBusiness.AssemblyInfoInputs.cache
+D:\SocialMediaApi\SocialMediaBusiness\obj\Debug\net9.0\SocialMediaBusiness.AssemblyInfo.cs
+D:\SocialMediaApi\SocialMediaBusiness\obj\Debug\net9.0\SocialMediaBusiness.csproj.CoreCompileInputs.cache
+D:\SocialMediaApi\SocialMediaBusiness\obj\Debug\net9.0\SocialMediaBusiness.sourcelink.json
+D:\SocialMediaApi\SocialMediaBusiness\obj\Debug\net9.0\SocialMe.0EB6BFE9.Up2Date
+D:\SocialMediaApi\SocialMediaBusiness\obj\Debug\net9.0\SocialMediaBusiness.dll
+D:\SocialMediaApi\SocialMediaBusiness\obj\Debug\net9.0\refint\SocialMediaBusiness.dll
+D:\SocialMediaApi\SocialMediaBusiness\obj\Debug\net9.0\SocialMediaBusiness.pdb
+D:\SocialMediaApi\SocialMediaBusiness\obj\Debug\net9.0\ref\SocialMediaBusiness.dll

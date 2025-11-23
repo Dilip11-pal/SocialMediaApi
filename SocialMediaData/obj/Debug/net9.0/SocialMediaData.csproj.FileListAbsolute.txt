@@ -1,0 +1,15 @@
+D:\SocialMediaApi\SocialMediaData\obj\Debug\net9.0\SocialMediaData.csproj.AssemblyReference.cache
+D:\SocialMediaApi\SocialMediaData\obj\Debug\net9.0\SocialMediaData.GeneratedMSBuildEditorConfig.editorconfig
+D:\SocialMediaApi\SocialMediaData\obj\Debug\net9.0\SocialMediaData.AssemblyInfoInputs.cache
+D:\SocialMediaApi\SocialMediaData\obj\Debug\net9.0\SocialMediaData.AssemblyInfo.cs
+D:\SocialMediaApi\SocialMediaData\obj\Debug\net9.0\SocialMediaData.csproj.CoreCompileInputs.cache
+D:\SocialMediaApi\SocialMediaData\obj\Debug\net9.0\SocialMediaData.sourcelink.json
+D:\SocialMediaApi\SocialMediaData\bin\Debug\net9.0\SocialMediaData.deps.json
+D:\SocialMediaApi\SocialMediaData\bin\Debug\net9.0\SocialMediaData.runtimeconfig.json
+D:\SocialMediaApi\SocialMediaData\bin\Debug\net9.0\SocialMediaData.dll
+D:\SocialMediaApi\SocialMediaData\bin\Debug\net9.0\SocialMediaData.pdb
+D:\SocialMediaApi\SocialMediaData\obj\Debug\net9.0\SocialMediaData.dll
+D:\SocialMediaApi\SocialMediaData\obj\Debug\net9.0\refint\SocialMediaData.dll
+D:\SocialMediaApi\SocialMediaData\obj\Debug\net9.0\SocialMediaData.pdb
+D:\SocialMediaApi\SocialMediaData\obj\Debug\net9.0\SocialMediaData.genruntimeconfig.cache
+D:\SocialMediaApi\SocialMediaData\obj\Debug\net9.0\ref\SocialMediaData.dll
